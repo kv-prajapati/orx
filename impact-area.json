@@ -1,0 +1,22 @@
+[
+            {
+                Name: "Financial",
+                Weightage: 50
+            },
+            {
+                Name: "Reputation",
+                Weightage: 40
+            },
+            {
+                Name: "Legal & Regulatory",
+                Weightage: 30
+            },
+            {
+                Name: "Business Operations",
+                Weightage: 20
+            },
+            {
+                Name: "Technology",
+                Weightage: 10
+            } 
+        ]
